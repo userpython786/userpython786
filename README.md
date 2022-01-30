@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @userpython786
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
--.    I learn just time pass
+-.    i have learned basic and opp 
+now i am working on flask and cybersecurity
+
 
 
 <!---
